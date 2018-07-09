@@ -14,14 +14,15 @@ Summary: a Python implementation of the Unicode Collation Algorithm
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pyuca-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pyuca-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pyuca-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pyuca-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pyuca-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pyuca-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/pyuca-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/pyuca-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyuca/badges/version.svg)](https://anaconda.org/conda-forge/pyuca)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pyuca/badges/downloads.svg)](https://anaconda.org/conda-forge/pyuca)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pyuca-green.svg)](https://anaconda.org/conda-forge/pyuca) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyuca.svg)](https://anaconda.org/conda-forge/pyuca) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyuca.svg)](https://anaconda.org/conda-forge/pyuca) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyuca.svg)](https://anaconda.org/conda-forge/pyuca) |
 
 Installing pyuca
 ================
