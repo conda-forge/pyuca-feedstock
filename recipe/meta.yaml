@@ -34,8 +34,7 @@ test:
 about:
   home: https://pypi.org/project/pyuca
   license: MIT
-  # license file currently not on sdist, see https://github.com/jtauber/pyuca/pull/9
-  #license_file: LICENSE
+  license_file: LICENSE
   summary: a Python implementation of the Unicode Collation Algorithm
   dev_url: https://github.com/jtauber/pyuca
 
